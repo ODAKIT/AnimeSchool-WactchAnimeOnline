@@ -1,4 +1,5 @@
-@media (min-width: 1281px) {
+@media only screen and (min-width: 1281px)
+{
   
 
 :root{
@@ -144,6 +145,8 @@ img{
     position: relative;
     width: 300px;
     height: 450px;
+    padding-bottom: 50px;
+
  }
 
 .middle_2 .allFlim .oneFlim a{
